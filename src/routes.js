@@ -28,6 +28,6 @@ export default function Router() {
       path: '/',
       element: <Login />
     },
-    { path: '*', element: <Navigate to="/404" replace /> },
+    // { path: '*', element: <Navigate to="/404" replace /> },
   ]);
 }

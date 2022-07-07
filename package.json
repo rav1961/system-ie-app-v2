@@ -84,6 +84,5 @@
   },
   "overrides": {
     "@svgr/webpack": "^6.2.1"
-  },
-  "homepage": "https://rcode.pl/"
+  }
 }
